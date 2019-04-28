@@ -1,3 +1,19 @@
+
+body {
+
+  font-family: 'Open Sans';
+  font-weight: 300;
+  
+}
+
+.pb {
+  font-weight: 400;
+}
+
+
+
+
+
 .header-nav {
 
   display: flex;
@@ -61,3 +77,4 @@ display:flex;
 nav :hover {
   color: rgb(160, 255, 17);
 }
+
