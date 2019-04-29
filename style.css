@@ -39,7 +39,7 @@ nav {
 
 .logo {
   color: rgb(41, 233, 121);
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   font-weight: bold;
   text-align: center;
   border: 1px solid;
@@ -75,6 +75,6 @@ display:flex;
 }
 
 nav :hover {
-  color: rgb(160, 255, 17);
+  color: rgb(18, 228, 28);
 }
 
