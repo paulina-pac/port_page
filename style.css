@@ -1,28 +1,16 @@
-
 body {
-
   font-family: 'Open Sans';
   font-weight: 300;
-  
 }
 
 /* .pb {
   font-weight: 400;
 } */
 
-
-
-
-
 .header-nav {
-
   display: flex;
   justify-content: center;
-
 }
-
-
-
 
 nav {
   width: 100%;
@@ -34,7 +22,6 @@ nav {
   display: flex;
   justify-content: space-between;
   font-family: 'Proza Libre', sans-serif;
-  
 }
 
 .logo {
@@ -45,8 +32,6 @@ nav {
   border: 1px solid;
   padding: 6px;
   align-self: flex-start;
-  
-  
 }
 
 a {
@@ -59,7 +44,7 @@ ul {
 }
 
 .main-menu {
-display:flex;
+  display:flex;
 }
 
 .tools {
@@ -69,9 +54,7 @@ display:flex;
 
 .main-menu > li,
 .tools > li {
-
   margin-right: 0.5rem;
-
 }
 
 nav :hover {
